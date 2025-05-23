@@ -80,6 +80,9 @@
   "lootr": {
     "info": true
   },
+  "balm": {
+    "jade": true
+  },
   "integrateddynamicscompat": {
     "proxy": true,
     "mechanical_squeezer": true,
@@ -106,6 +109,13 @@
     "canvas_beehive": true,
     "bee_attributes": true,
     "productive_bee": true
+  },
+  "utilitix": {
+    "glue_information": true,
+    "experience_crystal": true,
+    "linked_repeater": true,
+    "crude_furnace": true,
+    "advanced_brewery": true
   },
   "ars_nouveau": {
     "mob_jar": true
@@ -143,6 +153,7 @@
     "fridge": true,
     "oven": true,
     "sink": true,
+    "preservation_chamber": true,
     "milk_jar": true,
     "toaster": true
   }
